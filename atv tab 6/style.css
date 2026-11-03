@@ -1,0 +1,40 @@
+body{
+font-family: serif;
+margin: 20px;
+}
+table{
+width: 100%;
+max-width: 800px;
+border-radius: 100px;
+border-collapse: collapse;
+border: 10px;
+
+font-size: 13px;
+
+}
+ td{
+    padding: 4px;
+color: #333242;
+}
+th{
+    padding: 4px;
+text-align: left;}
+
+    .UMBRA {
+ color: #4e4d66;
+  
+ background-color: #d8e0ee;
+ 
+
+}
+.DOIS th{
+color: #35ff23;
+ 
+
+
+}
+.TRES th{
+color: #ff2b2b;
+ 
+
+}

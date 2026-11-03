@@ -1,0 +1,25 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+margin: 20px;
+}
+table{
+width: 100%;
+max-width: 700px;
+border: 10px;
+border-collapse: collapse;
+font-size: 15px;
+}
+th,td{
+    padding:12px;
+    text-align: left;
+    border-bottom: 1px solid #fff;
+
+}
+th{
+    background: linear-gradient(135deg, #6366f1, #a855f7);
+    color: #fff;
+   
+}
+tr:first-child{
+    background-color: rgb(219, 220, 221);
+}

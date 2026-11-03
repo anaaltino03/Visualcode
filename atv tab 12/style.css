@@ -1,0 +1,30 @@
+body{
+font-family:Arial, Helvetica, sans-serif
+
+}
+table{
+width: 100px;
+border-collapse: collapse;
+border-bottom: 1px solid #ddd;
+border: 10px;
+padding: 10px;
+font-size: 13px;
+
+}
+th, td{
+padding: 30px;
+text-align: left;
+color: white;
+border-bottom: 1px solid #ddd;
+
+}
+tr:first-child{
+    background-color: rgb(74, 71, 253);
+}
+td{
+    color: rgb(1, 1, 2);
+}
+tr:last-child{
+
+    background-color: rgb(180, 182, 184);
+}
